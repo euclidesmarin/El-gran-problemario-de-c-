@@ -1,0 +1,6 @@
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\numeropar\numeropar\bin\Debug\numeropar.exe.config
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\numeropar\numeropar\bin\Debug\numeropar.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\numeropar\numeropar\bin\Debug\numeropar.pdb
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\numeropar\numeropar\obj\Debug\numeropar.csprojResolveAssemblyReference.cache
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\numeropar\numeropar\obj\Debug\numeropar.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\numeropar\numeropar\obj\Debug\numeropar.pdb

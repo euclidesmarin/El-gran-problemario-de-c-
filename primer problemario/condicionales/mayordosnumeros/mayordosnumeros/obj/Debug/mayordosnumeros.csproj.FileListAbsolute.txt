@@ -1,0 +1,6 @@
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropar\mayordosnumeros\mayordosnumeros\obj\Debug\mayordosnumeros.csprojResolveAssemblyReference.cache
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropar\mayordosnumeros\mayordosnumeros\bin\Debug\mayordosnumeros.exe.config
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropar\mayordosnumeros\mayordosnumeros\bin\Debug\mayordosnumeros.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropar\mayordosnumeros\mayordosnumeros\bin\Debug\mayordosnumeros.pdb
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropar\mayordosnumeros\mayordosnumeros\obj\Debug\mayordosnumeros.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropar\mayordosnumeros\mayordosnumeros\obj\Debug\mayordosnumeros.pdb
