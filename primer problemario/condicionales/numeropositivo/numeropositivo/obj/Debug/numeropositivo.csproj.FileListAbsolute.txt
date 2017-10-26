@@ -1,0 +1,6 @@
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropositivo\numeropositivo\obj\Debug\numeropositivo.csprojResolveAssemblyReference.cache
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropositivo\numeropositivo\bin\Debug\numeropositivo.exe.config
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropositivo\numeropositivo\bin\Debug\numeropositivo.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropositivo\numeropositivo\bin\Debug\numeropositivo.pdb
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropositivo\numeropositivo\obj\Debug\numeropositivo.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\numeropositivo\numeropositivo\obj\Debug\numeropositivo.pdb

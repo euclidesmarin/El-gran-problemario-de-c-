@@ -1,0 +1,6 @@
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\operacionesaritmeticas\operacionesaritmeticas\bin\Debug\operacionesaritmeticas.exe.config
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\operacionesaritmeticas\operacionesaritmeticas\bin\Debug\operacionesaritmeticas.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\operacionesaritmeticas\operacionesaritmeticas\bin\Debug\operacionesaritmeticas.pdb
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\operacionesaritmeticas\operacionesaritmeticas\obj\Debug\operacionesaritmeticas.csprojResolveAssemblyReference.cache
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\operacionesaritmeticas\operacionesaritmeticas\obj\Debug\operacionesaritmeticas.exe
+G:\codigos de programacion\c#\El gran problemario de c#\primer problemario\condicionales\operacionesaritmeticas\operacionesaritmeticas\obj\Debug\operacionesaritmeticas.pdb
